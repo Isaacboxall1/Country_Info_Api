@@ -1,0 +1,60 @@
+.countrycontainer{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 270px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    margin: 3vw;
+    height: 350px;
+    background-color: #d9dddd;
+}
+
+.countrycontainer #dark {
+    background-color: #586A6A;
+}
+
+.flagimage{
+    grid-row: 1/1;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom: 1px solid #d9dddd;
+}
+
+.text-elements {
+    grid-row: 2/2;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.jank {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+}
+
+.fields {
+    font-weight: bold;
+}
+
+p {
+    width: 40%;
+    text-align: left;
+    font-size: 14px;
+    height: 20%;
+    margin: 2px 0 0 0;
+}
+
+h1 {
+    width: 90%;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 22px;
+}
