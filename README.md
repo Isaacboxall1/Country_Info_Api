@@ -1,6 +1,6 @@
 ## Where in the World 
 
-![](https://github.com/isaacboxall1/Country_Info_Api/public/Your_GIF_Name.gif)
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/earth.gif)
 
 ### Overview
 
@@ -40,9 +40,9 @@ https://where-in-the-world-2021.netlify.app/
 
 ### Screenshots
 
-[!image] (https://github.com/isaacboxall1/Country_Info_Api/public/lightmode.png)
-[!image] (https://github.com/isaacboxall1/Country_Info_Api/public/darkmode.png)
-[!image] (https://github.com/isaacboxall1/Country_Info_Api/public/mobile.png)
+[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
+[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/darkmode.png)
+[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
 
 ### Authors
 
