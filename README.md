@@ -13,6 +13,7 @@ This project is a simple app built with the restcountries api, that displays use
 - Users can filter countries by region
 - Users can toggle the color scheme between light and dark mode
 - 3D earth globe with regions centered on filter and search
+- Mobile responsive
 
 
 ### Technologies Used
@@ -38,12 +39,6 @@ $ npm start
 
 https://where-in-the-world-2021.netlify.app/
 
-### Screenshots
-
-![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
-![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/darkmode.png)
-![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
-
 ### Authors
 
 This project was initially built as part of a team of three developers, as part of a School of Code Hackathon. The team consisted of:
@@ -51,3 +46,9 @@ This project was initially built as part of a team of three developers, as part 
 - Isaac Boxall 
 - Tristan Roscorla
 - Neil Brooks
+
+### Screenshots
+
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
+
