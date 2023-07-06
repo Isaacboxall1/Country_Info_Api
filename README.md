@@ -50,5 +50,4 @@ This project was initially built as part of a team of three developers, as part 
 ### Screenshots
 
 ![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
-![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
 
