@@ -40,9 +40,9 @@ https://where-in-the-world-2021.netlify.app/
 
 ### Screenshots
 
-[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
-[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/darkmode.png)
-[](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/lightmode.png)
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/darkmode.png)
+![](https://github.com/Isaacboxall1/Country_Info_Api/blob/main/public/mobile.png)
 
 ### Authors
 
